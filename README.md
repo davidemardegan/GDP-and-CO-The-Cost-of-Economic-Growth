@@ -4,6 +4,8 @@ Two-person statistics research project completed for **Mathematical Statistics**
 
 **Authors:** Davide Mardegan and Ascanio Schena
 
+**[Read the full report](./gdp-co2.pdf)**
+
 ## Overview
 
 This project studies the relationship between **economic growth** and **CO₂ emissions** across Italy and the BRICS economies from 1980 to 2022.
